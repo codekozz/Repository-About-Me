@@ -1,0 +1,61 @@
+body {
+    font-size: 16px;
+    color: rgb(158, 158, 158);
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(63, 63, 63);
+}
+
+h2 {
+    text-transform: lowercase;
+    padding: 15px 0;
+    color: rgb(125, 83, 243);
+}
+
+h3 {
+    color: rgb(158, 158, 158);
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 200;
+}
+
+ul {
+    background: rgb(235, 235, 235);
+    padding: 10px 0;
+}
+
+div img {
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(63, 63, 63);
+}
+
+a img {
+    width: 200px;
+    height: 300px;
+}
+
+section {
+    padding: 20px;
+}
+
+.border {
+    border-bottom: 1px solid rgb(235, 235, 235);
+}
+
+.italic {
+    font-style: italic;
+}
